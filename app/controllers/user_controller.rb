@@ -1,4 +1,5 @@
-class UserController < ApplicationController
+clas UserController < ApplicationController
+#asd
   def index
   	user = User.new
 	user.username = "Brusmax"
